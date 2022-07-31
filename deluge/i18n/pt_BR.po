@@ -104,27 +104,27 @@ msgstr ""
 
 #: deluge/argparserbase.py:172
 msgid "Common Options"
-msgstr ""
+msgstr "Opções comuns"
 
 #: deluge/argparserbase.py:175
 msgid "Print this help message"
-msgstr ""
+msgstr "Baixar essa mensagem de ajuda"
 
 #: deluge/argparserbase.py:182
 msgid "Print version information"
-msgstr ""
+msgstr "Baixar informações da versão"
 
 #: deluge/argparserbase.py:194
 msgid "Set the config directory path"
-msgstr ""
+msgstr "Defina o caminho do diretório de configuração"
 
 #: deluge/argparserbase.py:200
 msgid "Output to specified logfile instead of stdout"
-msgstr ""
+msgstr "Saída para o logfile especificado ao invés do stdout"
 
 #: deluge/argparserbase.py:206
 msgid "Set the log level (none, error, warning, info, debug)"
-msgstr ""
+msgstr "Defina o Nivel do log(nenhum, erro, atenção, info, debug)"
 
 #: deluge/argparserbase.py:215
 #, python-format
@@ -146,7 +146,7 @@ msgstr ""
 
 #: deluge/argparserbase.py:351
 msgid "Process Control Options"
-msgstr ""
+msgstr "Opções de controle de processo"
 
 #: deluge/argparserbase.py:357
 msgid "Pidfile to store the process id"
@@ -154,31 +154,31 @@ msgstr ""
 
 #: deluge/argparserbase.py:365
 msgid "Do not daemonize (fork) this process"
-msgstr ""
+msgstr "Não daemonize (fork) esse processo"
 
 #: deluge/argparserbase.py:379
 msgid "Change to this user on startup (Requires root)"
-msgstr ""
+msgstr "Mude para esse usuário ao iniciar (Requer root)"
 
 #: deluge/argparserbase.py:386
 msgid "Change to this group on startup (Requires root)"
-msgstr ""
+msgstr "Mude para esse grupo ao iniciar (Requer root)"
 
 #: deluge/core/daemon_entry.py:25
 msgid "Daemon Options"
-msgstr ""
+msgstr "Opções Daemon"
 
 #: deluge/core/daemon_entry.py:31
 msgid "IP address to listen for UI connections"
-msgstr ""
+msgstr "Endereço IP busca por conexões UI"
 
 #: deluge/core/daemon_entry.py:39
 msgid "Port to listen for UI connections on"
-msgstr ""
+msgstr "Porta busca por conexões UI ativas"
 
 #: deluge/core/daemon_entry.py:47
 msgid "IP address to listen for BitTorrent connections"
-msgstr ""
+msgstr "Endereço IP  busca por conexões BitTorrent"
 
 #: deluge/core/daemon_entry.py:56
 msgid ""
@@ -202,7 +202,7 @@ msgstr "Ativo"
 
 #: deluge/ui/common.py:39 deluge/ui/web/js/deluge-all/UI.js:20
 msgid "Allocating"
-msgstr ""
+msgstr "Todos os locais"
 
 #: deluge/ui/common.py:40 deluge/ui/web/js/deluge-all/UI.js:21
 #: deluge/ui/web/js/deluge-all/UI.js:25
@@ -288,7 +288,7 @@ msgstr "Enviado"
 #: deluge/ui/common.py:57 deluge/ui/gtk3/torrentview.py:303
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:260
 msgid "Remaining"
-msgstr ""
+msgstr "Restantes"
 
 #: deluge/ui/common.py:58 deluge/ui/gtk3/torrentview.py:373
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:165
@@ -321,11 +321,11 @@ msgstr "Limite de upload"
 
 #: deluge/ui/common.py:63 deluge/ui/web/js/deluge-all/add/OptionsTab.js:101
 msgid "Max Connections"
-msgstr ""
+msgstr "Conexões Máximas"
 
 #: deluge/ui/common.py:64 deluge/ui/web/js/deluge-all/add/OptionsTab.js:109
 msgid "Max Upload Slots"
-msgstr ""
+msgstr "Máximo de slots de envio"
 
 #: deluge/ui/common.py:65 deluge/ui/gtk3/torrentview.py:325
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:136
@@ -367,23 +367,23 @@ msgstr "Rastreador"
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:213
 #: deluge/ui/web/js/deluge-all/add/OptionsTab.js:31
 msgid "Download Folder"
-msgstr ""
+msgstr "Pasta de Download"
 
 #: deluge/ui/common.py:75
 msgid "Seeding Time"
-msgstr ""
+msgstr "Tempo de Seeding"
 
 #: deluge/ui/common.py:76
 msgid "Active Time"
-msgstr ""
+msgstr "Tempo Ativo"
 
 #: deluge/ui/common.py:78
 msgid "Last Activity"
-msgstr ""
+msgstr "Ultima Atividade"
 
 #: deluge/ui/common.py:81
 msgid "Finished Time"
-msgstr ""
+msgstr "Tempo de Término"
 
 #: deluge/ui/common.py:83 deluge/ui/gtk3/torrentview.py:401
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:189
@@ -393,7 +393,7 @@ msgstr ""
 #: deluge/ui/common.py:86 deluge/ui/gtk3/torrentview.py:394
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:197
 msgid "Completed"
-msgstr ""
+msgstr "Completo"
 
 #: deluge/ui/common.py:87 deluge/ui/gtk3/torrentview.py:366
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:158
@@ -404,7 +404,7 @@ msgstr "Tempo estimado"
 #: deluge/ui/gtk3/glade/main_window.tabs.ui.h:30
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:236
 msgid "Shared"
-msgstr ""
+msgstr "Compartilhado"
 
 #: deluge/ui/common.py:90 deluge/ui/gtk3/glade/main_window.tabs.ui.h:31
 #: deluge/ui/web/js/deluge-all/details/OptionsTab.js:287
@@ -415,7 +415,7 @@ msgstr "Priorizar o primeiro e o último"
 #: deluge/ui/gtk3/glade/add_torrent_dialog.ui.h:14
 #: deluge/ui/web/js/deluge-all/add/OptionsTab.js:143
 msgid "Sequential Download"
-msgstr ""
+msgstr "Download Sequencial"
 
 #: deluge/ui/common.py:97 deluge/ui/common.py:98
 #: deluge/ui/gtk3/glade/main_window.tabs.ui.h:35
@@ -439,15 +439,15 @@ msgstr ""
 
 #: deluge/ui/common.py:102 deluge/ui/common.py:108
 msgid "Move On Completed"
-msgstr ""
+msgstr "Mover Quando Completado"
 
 #: deluge/ui/common.py:104
 msgid "Move Completed Path"
-msgstr ""
+msgstr "Mover"
 
 #: deluge/ui/common.py:112
 msgid "Move On Completed Path"
-msgstr ""
+msgstr "Mover Quando o Caminho for Completado"
 
 #: deluge/ui/common.py:115 deluge/ui/gtk3/filtertreeview.py:135
 #: deluge/ui/gtk3/torrentview.py:416
@@ -455,7 +455,7 @@ msgstr ""
 #: deluge/ui/web/js/deluge-all/FilterPanel.js:32
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:221
 msgid "Owner"
-msgstr ""
+msgstr "Dono"
 
 #: deluge/ui/common.py:116
 msgid "Pieces"
@@ -567,12 +567,12 @@ msgstr "Plug-ins"
 #: deluge/ui/common.py:150 deluge/ui/web/js/deluge-all/Deluge.js:154
 #: deluge/ui/web/js/deluge-all/Menus.js:365
 msgid "Skip"
-msgstr ""
+msgstr "Pular"
 
 #: deluge/ui/common.py:151 deluge/ui/web/js/deluge-all/Deluge.js:155
 #: deluge/ui/web/js/deluge-all/Menus.js:371
 msgid "Low"
-msgstr ""
+msgstr "Baixo"
 
 #: deluge/ui/common.py:152 deluge/ui/web/js/deluge-all/Deluge.js:156
 #: deluge/ui/web/js/deluge-all/Menus.js:377
@@ -582,7 +582,7 @@ msgstr ""
 #: deluge/ui/common.py:153 deluge/ui/web/js/deluge-all/Deluge.js:157
 #: deluge/ui/web/js/deluge-all/Menus.js:383
 msgid "High"
-msgstr ""
+msgstr "Alto"
 
 #: deluge/ui/client.py:681
 msgid ""
@@ -1590,31 +1590,31 @@ msgstr ""
 
 #: deluge/ui/web/web.py:32
 msgid "Web Server Options"
-msgstr ""
+msgstr "Opções do Servidor Web"
 
 #: deluge/ui/web/web.py:38
 msgid "IP address for web server to listen on"
-msgstr ""
+msgstr "Endereço IP para o Servidor Web ouvir"
 
 #: deluge/ui/web/web.py:46
 msgid "Port for web server to listen on"
-msgstr ""
+msgstr "Porta para o Servidor Web ouvir"
 
 #: deluge/ui/web/web.py:53
 msgid "Set the base path that the ui is running on"
-msgstr ""
+msgstr "Defina o caminho base que o UI está rodando"
 
 #: deluge/ui/web/web.py:56
 msgid "Force the web server to use SSL"
-msgstr ""
+msgstr "Force o Servidor Web a usar SSL"
 
 #: deluge/ui/web/web.py:61
 msgid "Force the web server to disable SSL"
-msgstr ""
+msgstr "Force o Servidor Web a desabilitar SSL"
 
 #: deluge/ui/web/json_api.py:868
 msgid "Daemon does not exist"
-msgstr ""
+msgstr "Deamon não existe"
 
 #: deluge/ui/web/json_api.py:875
 msgid "Daemon not running"
@@ -1719,12 +1719,12 @@ msgstr "Deluge"
 #: deluge/ui/gtk3/path_combo_chooser.py:393
 #: deluge/ui/gtk3/glade/path_combo_chooser.ui.h:20
 msgid "Edit path"
-msgstr ""
+msgstr "Editar caminho"
 
 #: deluge/ui/gtk3/path_combo_chooser.py:395
 #: deluge/ui/gtk3/glade/path_combo_chooser.ui.h:21
 msgid "Remove path"
-msgstr ""
+msgstr "Remover Caminho"
 
 #: deluge/ui/gtk3/options_tab.py:136
 msgid "_Apply to selected"
@@ -1824,17 +1824,18 @@ msgstr "Torrent"
 #: deluge/ui/gtk3/addtorrentdialog.py:232
 #, python-format
 msgid "Add Torrents (%d)"
-msgstr ""
+msgstr "Adcione Torrents (%d)"
 
 #: deluge/ui/gtk3/addtorrentdialog.py:238
 msgid "Duplicate torrent(s)"
-msgstr ""
+msgstr "Duplicar Adcione Torrents (%d)"
 
 #: deluge/ui/gtk3/addtorrentdialog.py:240
 #, python-format
 msgid ""
 "You cannot add the same torrent twice. %d torrents were already added."
 msgstr ""
+"Você não pode usar o mesmo torrent 2 vezes. %d torrents já adcionados."
 
 #: deluge/ui/gtk3/addtorrentdialog.py:255
 msgid "Invalid File"
@@ -1843,11 +1844,11 @@ msgstr "Arquivo inválido"
 #: deluge/ui/gtk3/addtorrentdialog.py:290
 #: deluge/ui/gtk3/glade/add_torrent_dialog.ui.h:8
 msgid "Please wait for files..."
-msgstr ""
+msgstr "Por favor espere pelos arquivos..."
 
 #: deluge/ui/gtk3/addtorrentdialog.py:296
 msgid "Unable to download files for this magnet"
-msgstr ""
+msgstr "Incapaz de Baixar os arquivos para esse magnet link"
 
 #: deluge/ui/gtk3/addtorrentdialog.py:694
 msgid "Choose a .torrent file"
@@ -1896,7 +1897,7 @@ msgstr "Detalhes:"
 
 #: deluge/ui/gtk3/dialogs.py:200
 msgid "Authenticate"
-msgstr ""
+msgstr "Autenticado"
 
 #: deluge/ui/gtk3/dialogs.py:203 deluge/ui/gtk3/connectionmanager.py:211
 #: deluge/ui/gtk3/glade/connection_manager.ui.h:3
@@ -1929,11 +1930,11 @@ msgstr "Senha:"
 
 #: deluge/ui/gtk3/dialogs.py:257
 msgid "Edit Account"
-msgstr ""
+msgstr "Editar Conta"
 
 #: deluge/ui/gtk3/dialogs.py:258
 msgid "Edit existing account"
-msgstr ""
+msgstr "Editar conta existente"
 
 #: deluge/ui/gtk3/dialogs.py:263 deluge/ui/gtk3/dialogs.py:364
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:16
@@ -1943,11 +1944,11 @@ msgstr ""
 
 #: deluge/ui/gtk3/dialogs.py:270
 msgid "New Account"
-msgstr ""
+msgstr "Nova Conta"
 
 #: deluge/ui/gtk3/dialogs.py:271
 msgid "Create a new account"
-msgstr ""
+msgstr "Criar nova conta"
 
 #: deluge/ui/gtk3/dialogs.py:273 deluge/ui/gtk3/glade/queuedtorrents.ui.h:3
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:191
@@ -1960,7 +1961,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/dialogs.py:289
 msgid "Authentication Level:"
-msgstr ""
+msgstr "Nivel de Autentcação:"
 
 #: deluge/ui/gtk3/dialogs.py:423
 msgid "Password Protected"
@@ -1992,19 +1993,19 @@ msgstr "Não conectado"
 
 #: deluge/ui/gtk3/statusbar.py:175
 msgid "Connections (Limit)"
-msgstr ""
+msgstr "Conexões (Limite)"
 
 #: deluge/ui/gtk3/statusbar.py:182
 msgid "Download Speed (Limit)"
-msgstr ""
+msgstr "Velocidade de Download (Limite)"
 
 #: deluge/ui/gtk3/statusbar.py:189
 msgid "Upload Speed (Limit)"
-msgstr ""
+msgstr "Velocidade de Upload (Limite)"
 
 #: deluge/ui/gtk3/statusbar.py:196
 msgid "Protocol Traffic (Down:Up)"
-msgstr ""
+msgstr "Protocolo de Trafico (Down:Up)"
 
 #: deluge/ui/gtk3/statusbar.py:201 deluge/ui/web/js/deluge-all/Statusbar.js:234
 msgid "DHT Nodes"
@@ -2016,7 +2017,7 @@ msgstr "Espaço livre em disco"
 
 #: deluge/ui/gtk3/statusbar.py:212 deluge/ui/web/js/deluge-all/Statusbar.js:226
 msgid "External IP Address"
-msgstr ""
+msgstr "Endereço de IP Externo"
 
 #: deluge/ui/gtk3/statusbar.py:213 deluge/ui/gtk3/statusbar.py:409
 #, python-format
@@ -2035,27 +2036,27 @@ msgstr ""
 
 #: deluge/ui/gtk3/statusbar.py:222
 msgid "No incoming connections, check port forwarding"
-msgstr ""
+msgstr "Sem conexões vindo, verifique o encaminhamento de portas"
 
 #: deluge/ui/gtk3/statusbar.py:475 deluge/ui/gtk3/systemtray.py:394
 #: deluge/ui/gtk3/menubar.py:447
 msgid "Download Speed Limit"
-msgstr ""
+msgstr "Limite de Velocidade de Download"
 
 #: deluge/ui/gtk3/statusbar.py:476 deluge/ui/gtk3/systemtray.py:395
 #: deluge/ui/gtk3/menubar.py:448
 msgid "Set the maximum download speed"
-msgstr ""
+msgstr "Defina o máximo de velocidade de Download"
 
 #: deluge/ui/gtk3/statusbar.py:482 deluge/ui/gtk3/systemtray.py:409
 #: deluge/ui/gtk3/menubar.py:453
 msgid "Upload Speed Limit"
-msgstr ""
+msgstr "Máximo de velocidade de Upload"
 
 #: deluge/ui/gtk3/statusbar.py:483 deluge/ui/gtk3/systemtray.py:410
 #: deluge/ui/gtk3/menubar.py:454
 msgid "Set the maximum upload speed"
-msgstr ""
+msgstr "Defina o máximo de velocidade de Upload"
 
 #: deluge/ui/gtk3/statusbar.py:489 deluge/ui/gtk3/menubar.py:459
 msgid "Incoming Connections"
@@ -2079,7 +2080,7 @@ msgstr ""
 #: deluge/ui/gtk3/torrentview_data_funcs.py:284
 #: deluge/ui/web/js/deluge-all/TorrentGrid.js:74
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 #: deluge/ui/gtk3/tab_data_funcs.py:96
 msgid "Yes"
@@ -2245,7 +2246,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/connectionmanager.py:332
 msgid "Incompatible Client"
-msgstr ""
+msgstr "Cliente Incompativel"
 
 #: deluge/ui/gtk3/connectionmanager.py:343
 msgid ""
@@ -2255,19 +2256,19 @@ msgstr ""
 
 #: deluge/ui/gtk3/connectionmanager.py:346
 msgid "Failed To Connect"
-msgstr ""
+msgstr "Falha em Conectar"
 
 #: deluge/ui/gtk3/connectionmanager.py:403
 msgid "Edit Host"
-msgstr ""
+msgstr "Editar Host"
 
 #: deluge/ui/gtk3/connectionmanager.py:428
 msgid "Error Adding Host"
-msgstr "Erro ao adicionar servidor"
+msgstr "Erro ao Adicionar Servidor"
 
 #: deluge/ui/gtk3/connectionmanager.py:464
 msgid "Error Updating Host"
-msgstr ""
+msgstr "Error ao Atualizar o Host"
 
 #: deluge/ui/gtk3/preferences.py:131
 #: deluge/ui/console/cmdline/commands/connect.py:33
@@ -2298,15 +2299,15 @@ msgstr "Plug-in"
 
 #: deluge/ui/gtk3/preferences.py:876 deluge/ui/gtk3/preferences.py:886
 msgid "Attention"
-msgstr ""
+msgstr "Atenção"
 
 #: deluge/ui/gtk3/preferences.py:876
 msgid "You must choose a language"
-msgstr ""
+msgstr "Você deve escolher uma linguagem"
 
 #: deluge/ui/gtk3/preferences.py:887
 msgid "You must now restart the deluge UI for the changes to take effect."
-msgstr ""
+msgstr "Você deve reiniciar o deluge UI para as mudanças terem efeito."
 
 #: deluge/ui/gtk3/preferences.py:940
 msgid "Thinclient"
@@ -2319,12 +2320,12 @@ msgstr ""
 
 #: deluge/ui/gtk3/preferences.py:942
 msgid "Switching Deluge Client Mode..."
-msgstr ""
+msgstr "Mudando o Modo do Cliente Deluge..."
 
 #: deluge/ui/gtk3/preferences.py:943
 #, python-format
 msgid "Do you want to restart to use %s mode?"
-msgstr ""
+msgstr "Você quer reiniciar para usar o modo %s"
 
 #: deluge/ui/gtk3/preferences.py:1154
 msgid "Select the Plugin"
@@ -2340,31 +2341,31 @@ msgstr ""
 
 #: deluge/ui/gtk3/preferences.py:1298
 msgid "An error occurred on the server"
-msgstr ""
+msgstr "Um erro ocorreu no servidor"
 
 #: deluge/ui/gtk3/preferences.py:1368 deluge/ui/gtk3/preferences.py:1375
 msgid "Error Adding Account"
-msgstr ""
+msgstr "Erro Acionando Conta
 
 #: deluge/ui/gtk3/preferences.py:1369
 msgid "Authentication failed"
-msgstr ""
+msgstr "Auntenticação Falhou
 
 #: deluge/ui/gtk3/preferences.py:1376
 msgid "An error occurred while adding account"
-msgstr ""
+msgstr "Um erro ocorreu enquanto adcionava a conta"
 
 #: deluge/ui/gtk3/preferences.py:1408
 msgid "Error Updating Account"
-msgstr ""
+msgstr "Erro Atualizando Conta"
 
 #: deluge/ui/gtk3/preferences.py:1409
 msgid "An error occurred while updating account"
-msgstr ""
+msgstr "Um erro ocorreu enquanto a conta atualizava"
 
 #: deluge/ui/gtk3/preferences.py:1427
 msgid "Remove Account"
-msgstr ""
+msgstr "Remover Conta"
 
 #: deluge/ui/gtk3/preferences.py:1429
 #, python-format
@@ -2375,15 +2376,15 @@ msgstr ""
 
 #: deluge/ui/gtk3/preferences.py:1441 deluge/ui/gtk3/preferences.py:1448
 msgid "Error Removing Account"
-msgstr ""
+msgstr "Erro Removendo Conta"
 
 #: deluge/ui/gtk3/preferences.py:1442
 msgid "Auhentication failed"
-msgstr ""
+msgstr "Autenticação falhou"
 
 #: deluge/ui/gtk3/preferences.py:1449
 msgid "An error occurred while removing account"
-msgstr ""
+msgstr "Um erro ocorreu enquanto removia a conta"
 
 #: deluge/ui/gtk3/filtertreeview.py:122
 #: deluge/ui/web/js/deluge-all/FilterPanel.js:28
@@ -2419,7 +2420,7 @@ msgstr "Sem rótulo"
 
 #: deluge/ui/gtk3/filtertreeview.py:206
 msgid "No Owner"
-msgstr ""
+msgstr "Sem Dono"
 
 #: deluge/ui/gtk3/new_release_dialog.py:60
 msgid "<i>Client Version</i>"
@@ -2435,16 +2436,16 @@ msgstr " Torrent enfileirado"
 
 #: deluge/ui/gtk3/torrentview.py:421
 msgid "Torrent is shared between other Deluge users or not."
-msgstr ""
+msgstr "Torrent é comparitlhado entre outros usuários Deluga ou não."
 
 #: deluge/ui/gtk3/removetorrentdialog.py:67
 msgid "Remove the selected torrents?"
-msgstr ""
+msgstr "Remover os Torrents Selecionados?"
 
 #: deluge/ui/gtk3/removetorrentdialog.py:68
 #, python-format
 msgid "Total of %s torrents selected"
-msgstr ""
+msgstr "Total de %s torrents selecionados"
 
 #: deluge/ui/gtk3/menubar.py:79
 msgid "Set Unlimited"
@@ -2464,7 +2465,7 @@ msgstr "Desabilitar"
 
 #: deluge/ui/gtk3/menubar.py:104
 msgid "Enable..."
-msgstr ""
+msgstr "Ativo..."
 
 #: deluge/ui/gtk3/menubar.py:465
 msgid "Peer Upload Slots"
@@ -2472,7 +2473,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/menubar.py:466
 msgid "Set the maximum upload slots"
-msgstr ""
+msgstr "Define o máximo de slots de Upload"
 
 #: deluge/ui/gtk3/menubar.py:471
 msgid "Stop Seed At Ratio"
@@ -2498,7 +2499,7 @@ msgstr "Cliente"
 
 #: deluge/ui/gtk3/__init__.py:29
 msgid "GTK Options"
-msgstr ""
+msgstr "Opções GTK"
 
 #: deluge/ui/gtk3/__init__.py:36
 msgid ""
@@ -2567,7 +2568,7 @@ msgstr "_Editar"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:7
 msgid "_Preferences"
-msgstr ""
+msgstr "_Preferências"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:8
 msgid "_Connection Manager"
@@ -2643,7 +2644,7 @@ msgstr "_Comunidade"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:26
 msgid "_About"
-msgstr ""
+msgstr "_Sobre"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:27
 msgid "Add torrent"
@@ -2675,7 +2676,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:33
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:34
 msgid "Pause the selected torrents"
@@ -2736,15 +2737,15 @@ msgstr "Gerenciador de conexões"
 #: deluge/ui/web/js/deluge-all/preferences/InterfacePage.js:211
 #: deluge/ui/web/js/deluge-all/preferences/PreferencesWindow.js:86
 msgid "Close"
-msgstr ""
+msgstr "Feche"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:45
 msgid "Filter:"
-msgstr ""
+msgstr "Filtro:"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:46
 msgid "Clear the search"
-msgstr ""
+msgstr "Limpe a busca"
 
 #: deluge/ui/gtk3/glade/main_window.ui.h:47
 msgid "_Match Case"
@@ -2854,7 +2855,7 @@ msgstr ""
 #: deluge/ui/gtk3/glade/main_window.tabs.ui.h:25
 #: deluge/ui/web/render/tab_status.html:27
 msgid "Completed:"
-msgstr ""
+msgstr "Completado:"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:30
 #: deluge/ui/web/js/deluge-all/preferences/QueuePage.js:72
@@ -2863,11 +2864,11 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:31
 msgid "Waiting:"
-msgstr ""
+msgstr "Esperando:"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:32
 msgid "Missing:"
-msgstr ""
+msgstr "Faltando:"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:33
 msgid "_Revert"
@@ -2875,7 +2876,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:34
 msgid "Revert color to default"
-msgstr ""
+msgstr "Reverter cor para o padrão"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:35
 msgid "Piece Colors"
@@ -2883,7 +2884,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:36
 msgid "Main Window"
-msgstr ""
+msgstr "Janela Principal"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:37
 msgid "Enable system tray icon"
@@ -2891,7 +2892,7 @@ msgstr "Habilitar ícone na área de notificação"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:38
 msgid "App Indicator"
-msgstr ""
+msgstr "Indicador do App"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:39
 msgid "Systray"
@@ -2915,7 +2916,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:45
 msgid "Notify about new releases"
-msgstr ""
+msgstr "Notifique sobre novos lançamentos"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:46
 #: deluge/ui/web/js/deluge-all/preferences/OtherPage.js:38
@@ -2962,7 +2963,7 @@ msgstr "Baixar para:"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:54
 msgid "Download Folders"
-msgstr ""
+msgstr "Pasta de Download"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:55
 #: deluge/ui/web/js/deluge-all/preferences/DownloadsPage.js:93
@@ -2977,7 +2978,7 @@ msgstr "Priorizar primeira e última parte dos arquivos no torrent"
 #: deluge/ui/console/modes/preferences/preference_panes.py:287
 #: deluge/ui/web/js/deluge-all/preferences/DownloadsPage.js:102
 msgid "Sequential download"
-msgstr ""
+msgstr "Download sequencial"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:58
 #: deluge/ui/gtk3/glade/add_torrent_dialog.ui.h:15
@@ -3006,7 +3007,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:67
 msgid "Add Torrent Options"
-msgstr ""
+msgstr "Adcione Opções no Torrent"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:68
 msgid "Always show"
@@ -3022,7 +3023,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:71
 msgid "Connection Attempts per Second:"
-msgstr ""
+msgstr "Tentativas de Conexão por Segundo:"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:72
 msgid "Half-Open Connections:"
@@ -3098,7 +3099,7 @@ msgstr ""
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:85
 msgid "Global Bandwidth Limits"
-msgstr ""
+msgstr "Limite de Banda Global"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:86
 msgid "The maximum upload slots per torrent.  Set -1 for unlimited."
@@ -3110,7 +3111,7 @@ msgstr "O número máximo de conexões por torrent. Defina -1 para ilimitado."
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:88
 msgid "The maximum number download speed per torrent.  Set -1 for unlimited."
-msgstr ""
+msgstr "Número máximo de velocidade de download por torrent. Defina -1 para ilimitado"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:89
 msgid "The maximum upload speed per torrent.  Set -1 for unlimited."
@@ -3118,7 +3119,7 @@ msgstr "Velocidade máxima de upload por torrent. Defina -1 para ilimitado."
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:90
 msgid "Per-Torrent Bandwidth Limits"
-msgstr ""
+msgstr "Limite de Banda por Torrent"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:91
 #: deluge/ui/console/modes/preferences/preference_panes.py:556
@@ -3130,7 +3131,7 @@ msgstr ""
 #: deluge/ui/console/modes/preferences/preference_panes.py:554
 #: deluge/ui/web/js/deluge-all/preferences/QueuePage.js:30
 msgid "New Torrents"
-msgstr ""
+msgstr "Novos Torrents"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:93
 #: deluge/ui/web/js/deluge-all/preferences/QueuePage.js:85
@@ -3166,7 +3167,7 @@ msgstr ""
 #: deluge/ui/console/modes/preferences/preference_panes.py:558
 #: deluge/ui/web/js/deluge-all/preferences/QueuePage.js:50
 msgid "Active Torrents"
-msgstr ""
+msgstr "Torrents ativos"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:100
 #: deluge/ui/gtk3/glade/main_window.tabs.ui.h:7
@@ -3184,7 +3185,7 @@ msgstr ""
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:102
 #: deluge/ui/web/js/deluge-all/preferences/QueuePage.js:157
 msgid "Time (m):"
-msgstr ""
+msgstr "Tempo (m):"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:103
 #: deluge/ui/console/modes/preferences/preference_panes.py:590
@@ -3219,7 +3220,7 @@ msgstr "Aleatório"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:110
 msgid "Uses random ports in range 49152 to 65525"
-msgstr ""
+msgstr "Use portas aleatórias entre 49152 to 65525"
 
 #: deluge/ui/gtk3/glade/preferences_dialog.ui.h:111
 msgid "Active Port:"
